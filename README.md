@@ -4,6 +4,8 @@ This script is written in Node.js and basically uses a NLP library to extract se
 
 My first approach was to use regex to fetch all the sentences and dissect those in Quotations into separate sentences but it needed some error handling and so I used the premade library to avoid re-inventing the wheel.
 
+Basically the script uses the ShortStory.txt from the root directory and then writes the output into `output.txt`
+
 Basically the first iteration made a text from turn like this:
 
 #### Before
