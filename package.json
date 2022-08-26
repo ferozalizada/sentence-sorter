@@ -1,0 +1,14 @@
+{
+  "name": "sentence_sorter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ferozalizada",
+  "license": "ISC",
+  "dependencies": {
+    "natural": "^5.2.3"
+  }
+}
